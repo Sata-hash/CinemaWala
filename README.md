@@ -25,13 +25,13 @@
 
 
 
-## 3. Search for a WebSeries in Binger...
+## 3. Search for a TVSeries in Binger...
 ![Webseries](https://github.com/Sata-hash/CinemaWala/assets/142712421/5fd3b219-647f-4ea3-bf94-66c99317e43f)
 
 ## 4. MovieDetails page
 ![WatchIt](https://github.com/Sata-hash/CinemaWala/assets/142712421/add5f5c2-9245-44c6-9caa-ed92039e9bb3)
 
-## 5. WebSeriesDetails page
+## 5. TVSeries Details page
 ![WatchIt2](https://github.com/Sata-hash/CinemaWala/assets/142712421/41b8ecc3-644a-4cb0-979d-89ed68e81094)
 
 ## 6. See What's Trending!!
