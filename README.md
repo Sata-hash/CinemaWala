@@ -27,23 +27,23 @@
 ## 3. Search for a WebSeries in Binger...
 ![Webseries](https://github.com/Sata-hash/CinemaWala/assets/142712421/5fd3b219-647f-4ea3-bf94-66c99317e43f)
 
-## 4. Binger WatchList
-
-
-## 5. MovieDetails page
+## 4. MovieDetails page
 ![WatchIt](https://github.com/Sata-hash/CinemaWala/assets/142712421/add5f5c2-9245-44c6-9caa-ed92039e9bb3)
 
-## 6. WebSeriesDetails page
+## 5. WebSeriesDetails page
 ![WatchIt2](https://github.com/Sata-hash/CinemaWala/assets/142712421/41b8ecc3-644a-4cb0-979d-89ed68e81094)
 
-## 7. See What's Trending!!
+## 6. See What's Trending!!
 ![Trending](https://github.com/Sata-hash/CinemaWala/assets/142712421/c2251e2e-dfde-4217-9b6a-de3e0417c3e3)
 
 
 ## Built with...
 -->🚀️ React for the UI
+
 -->⏲️ NodeJS + ExpressJS
+
 -->📸 Add/Update/Delete Product(Mongodb)
-🎉️ and much more.
+
+-->🎉️ and much more.
 
 ## CopyRight goes to --> Satavisa Das.
