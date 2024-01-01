@@ -1,5 +1,7 @@
 <br/>
 <p align="center">
+ ![logo](https://github.com/Sata-hash/CinemaWala/assets/142712421/cb9077a1-165f-4fd9-b748-b86e293fb11a)
+
  <h3 align="center">A Tribute To All the Greatest FilmMakers </h3>
  
 
