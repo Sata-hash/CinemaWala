@@ -1,11 +1,7 @@
 <br/>
 <p align="center">
+ <h3 align="center">A Tribute To All the Greatest FilmMakers </h3>
  
-   "![logo](https://github.com/Sata-hash/CinemaWala/assets/142712421/cb9077a1-165f-4fd9-b748-b86e293fb11a)
-
- 
-  <h3 align="center">A Tribute To All the Greatest FilmMakers </h3>
-  <h3 align="center">Binger</h3>
 
   <p align="center">
     Movie Application Using MERN Stack
