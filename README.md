@@ -20,15 +20,15 @@
 
 
 ## 2. Search for a movie in Binger...
-![ProductPage](https://github.com/Sata-hash/shopeasy/assets/142712421/16357a6d-78b3-4dfc-a318-01ced9b13e90)
+![Movie](https://github.com/Sata-hash/CinemaWala/assets/142712421/f12d08fd-4eb2-4e16-a9c5-7c3d3f7894e1)
 
 
 
 ## 3. Search for a WebSeries in Binger...
-![ProductDetails](https://github.com/Sata-hash/shopeasy/assets/142712421/e4845e96-14dd-437f-a2e8-005a6980857d)
+![Webseries](https://github.com/Sata-hash/CinemaWala/assets/142712421/5fd3b219-647f-4ea3-bf94-66c99317e43f)/3ddd2106-66e5-426d-bd25-1683b4889ab5)
 
 ## 4. Binger WatchList
-![ProfilePage](https://github.com/Sata-hash/shopeasy/assets/142712421/78d87861-986d-42d5-9afd-5da43af4bb80)
+
 
 ## 5. MovieDetails page
 ![CheckOut](https://github.com/Sata-hash/shopeasy/assets/142712421/b8188367-8cdb-413f-a0a9-424471f41c61)
