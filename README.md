@@ -25,26 +25,25 @@
 
 
 ## 3. Search for a WebSeries in Binger...
-![Webseries](https://github.com/Sata-hash/CinemaWala/assets/142712421/5fd3b219-647f-4ea3-bf94-66c99317e43f)/3ddd2106-66e5-426d-bd25-1683b4889ab5)
+![Webseries](https://github.com/Sata-hash/CinemaWala/assets/142712421/5fd3b219-647f-4ea3-bf94-66c99317e43f)
 
 ## 4. Binger WatchList
 
 
 ## 5. MovieDetails page
-![CheckOut](https://github.com/Sata-hash/shopeasy/assets/142712421/b8188367-8cdb-413f-a0a9-424471f41c61)
+![WatchIt](https://github.com/Sata-hash/CinemaWala/assets/142712421/add5f5c2-9245-44c6-9caa-ed92039e9bb3)
 
 ## 6. WebSeriesDetails page
-![Contact](https://github.com/Sata-hash/shopeasy/assets/142712421/79e804e7-e3ad-4168-8451-4e3c7cb026d9)
+![WatchIt2](https://github.com/Sata-hash/CinemaWala/assets/142712421/41b8ecc3-644a-4cb0-979d-89ed68e81094)
 
+## 7. See What's Trending!!
+![Trending](https://github.com/Sata-hash/CinemaWala/assets/142712421/c2251e2e-dfde-4217-9b6a-de3e0417c3e3)
 
 
 ## Built with...
+-->🚀️ React for the UI
+-->⏲️ NodeJS + ExpressJS
+-->📸 Add/Update/Delete Product(Mongodb)
+🎉️ and much more.
 
-- 🚀️ React for the UI
-- 🏅️ Firebase real-time database
-- 💎️ Tailwind CSS for modern look
-- ⏲️ Auth0 authentication
-- 🔥 Admin Panel
-- 📸 Fakestore API
-- 🎉️ and much more.
-
+## CopyRight goes to --> Satavisa Das.
